@@ -19,6 +19,6 @@ export default class FeaturedRoom extends Component {
                     </div>
                 </section>
             </div>
-        )
+        );
     }
 }
